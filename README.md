@@ -1,2 +1,4 @@
-# Mandelbrot visualization
-Mandelbrot visualization written in c++
+Mandelbrot visualization
+========================
+
+Mandelbrot visualization written in c++.
